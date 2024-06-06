@@ -6,7 +6,7 @@
    
 ### Материалы задания
 
-1. [Базы данных](https://github.com/Anudora41/sys-insf-homeworks/blob/main/12-01.md) 
+1. [Базы данных](https://github.com/Anudora41/sys-bdsql-homeworks/blob/main/12-01.md) 
 2. [Работа с данными (DDL/DML)](https://github.com/Anudora41/sys-insf-homeworks/blob/main/12-02.md)
 3. [SQL. Часть 1]
 4. [SQL. Часть 2]
